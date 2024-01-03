@@ -1,5 +1,78 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# KredX Demo Web
+
+## Overview
+
+Made as an assignment, contains a simple ui made with bes practices mainly using NextJs, TailwindCSS
+
+## Folder Structure
+
+- `src/components/CapablityListing`: Contains components related to capability listings.
+- `src/components/CaraouselList`: Contains components related to carousel lists.
+- `src/components/HeroSection`: Contains components related to hero sections.
+- `src/components/core`: Contains core components used across the application.
+- `src/components/footer`: Contains components related to the footer.
+
+### Folder Structure
+
+The project follows a modular folder structure, organized by features or components, enhancing code readability and maintainability.
+
+### Configurations
+
+Configuration files, if any, are placed at the root of the project for easy access. Example: `tailwind.config.js`.
+
+### Core Components
+
+Core components, like buttons, are located in a dedicated `core` folder. This promotes reusability and consistency in UI elements.
+
+### Component Imports
+
+Import paths use aliases (e.g., `@/public/src/components/...`) for cleaner and more robust import statements.
+
+## Components
+
+### CapablityListing
+
+#### CapablityListingItem
+
+This component represents an individual item in a capability listing. It follows best practices for component design and organization.
+
+#### CapablityListing
+
+This component is responsible for rendering a list of capabilities. It utilizes the `CapablityListingItem` component.
+
+### CarouselList
+
+This component displays a carousel list. It dynamically renders content based on the provided configuration.
+
+### HeroSection
+
+This component represents the hero section of the webpage. It contains introductory content, images, and CTAs.
+
+### Button
+
+The `Button` component is a core UI element that provides consistent styling and behavior for buttons across the application.
+
+### Footer
+
+This component represents the footer of the webpage, providing information or links relevant to the project.
+
+## Dependencies
+
+Taliwind CSS
+
+# Screenshots
+
+![Screenshot (226)](https://github.com/drakshi/KredX/assets/62384655/f0209ffd-f732-4866-816c-276563a40b8c)
+
+![Screenshot (227)](https://github.com/drakshi/KredX/assets/62384655/088dd447-2b08-4ea2-969d-6efac1b1094b)
+
+![Screenshot (228)](https://github.com/drakshi/KredX/assets/62384655/de3355b6-e023-4aec-8a1d-555d95ccfc87)
+
+![Screenshot (229)](https://github.com/drakshi/KredX/assets/62384655/7bea4a7c-6627-4f94-9a53-916fa3842c0f)
+
+
 ## Getting Started
 
 First, run the development server:
