@@ -14,8 +14,6 @@ Made as an assignment, contains a simple ui made with bes practices mainly using
 - `src/components/core`: Contains core components used across the application.
 - `src/components/footer`: Contains components related to the footer.
 
-## Best Practices
-
 ### Folder Structure
 
 The project follows a modular folder structure, organized by features or components, enhancing code readability and maintainability.
@@ -63,6 +61,17 @@ This component represents the footer of the webpage, providing information or li
 ## Dependencies
 
 Taliwind CSS
+
+# Screenshots
+
+![Screenshot (226)](https://github.com/drakshi/KredX/assets/62384655/f0209ffd-f732-4866-816c-276563a40b8c)
+
+![Screenshot (227)](https://github.com/drakshi/KredX/assets/62384655/088dd447-2b08-4ea2-969d-6efac1b1094b)
+
+![Screenshot (228)](https://github.com/drakshi/KredX/assets/62384655/de3355b6-e023-4aec-8a1d-555d95ccfc87)
+
+![Screenshot (229)](https://github.com/drakshi/KredX/assets/62384655/7bea4a7c-6627-4f94-9a53-916fa3842c0f)
+
 
 ## Getting Started
 
