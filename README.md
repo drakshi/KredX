@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Overview
 
-Brief description of the project, its purpose, and any key features.
+Made as an assignment, contains a simple ui made with bes practices mainly using NextJs, TailwindCSS
 
 ## Folder Structure
 
